@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "愛にできることはまだあるかい (Movie edit)",
+  "base_artist": "RADWIMPS",
+  "createdAt": "2025-12-31T12:47:48.195985Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "愛にできることはまだあるかい",
+      "artist": "RADWIMPS",
+      "has_synced": true,
+      "path": "select/01_愛にできることはまだあるかい_RADWIMPS.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "愛にできることはまだあるかい (Movie Edit)",
+      "artist": "Radwimps",
+      "has_synced": true,
+      "path": "select/02_愛にできることはまだあるかい_(Movie_Edit)_Radwimps.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "愛にできることはまだあるかい",
+      "artist": "RADWIMPS",
+      "has_synced": true,
+      "path": "select/03_愛にできることはまだあるかい_RADWIMPS.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "愛にできることはまだあるかい (Is There Still Anything That Love Can Do?)",
+      "artist": "RADWIMPS",
+      "has_synced": true,
+      "path": "select/04_愛にできることはまだあるかい_(Is_There_Still_Anything_That_Love_Can_Do_)_RADWIMPS.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "愛にできることはまだあるかい",
+      "artist": "Amelia Khor",
+      "has_synced": true,
+      "path": "select/05_愛にできることはまだあるかい_Amelia_Khor.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "愛にできることはまだあるかい",
+      "artist": "Toko Miura",
+      "has_synced": true,
+      "path": "select/06_愛にできることはまだあるかい_Toko_Miura.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "愛にできることはまだあるかい (Movie edit)",
+      "artist": "RADWIMPS",
+      "has_synced": true,
+      "path": "select/07_愛にできることはまだあるかい_(Movie_edit)_RADWIMPS.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "愛にできることはまだあるかい",
+      "artist": "RADWIMPS",
+      "has_synced": true,
+      "path": "select/08_愛にできることはまだあるかい_RADWIMPS.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "愛にできることはまだあるかい",
+      "artist": "RADWIMPS",
+      "has_synced": true,
+      "path": "select/09_愛にできることはまだあるかい_RADWIMPS.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "愛にできることはまだあるかい（Movie edit）",
+      "artist": "RADWIMPS",
+      "has_synced": true,
+      "path": "select/10_愛にできることはまだあるかい(Movie_edit)_RADWIMPS.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "愛にできることはまだあるかい ~Movie Edit~",
+      "artist": "新海誠",
+      "has_synced": true,
+      "path": "select/11_愛にできることはまだあるかい_~Movie_Edit~_新海誠.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "愛にできることはまだあるかい (Movie edit)",
+      "artist": "RADWIMPS",
+      "has_synced": false,
+      "path": "select/12_愛にできることはまだあるかい_(Movie_edit)_RADWIMPS.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "愛にできることはまだあるかい - Is There Still Anything That Love Can Do?",
+      "artist": "Radwimps",
+      "has_synced": true,
+      "path": "select/13_愛にできることはまだあるかい_-_Is_There_Still_Anything_That_Love_Can_Do_Radwimps.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "愛にできることはまだあるかい (Movie edit) - Is There Still Anything That Love Can Do? (movie edit)",
+      "artist": "RADWIMPS",
+      "has_synced": true,
+      "path": "select/14_愛にできることはまだあるかい_(Movie_edit)_-_Is_There_Still_Anything_That_Love_Can_Do__(movie_e_RADWIMPS.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "RADWIMPS - 愛にできることはまだあるかい [Official Music Video]",
+      "artist": "RADWIMPS",
+      "has_synced": true,
+      "path": "select/15_RADWIMPS_-_愛にできることはまだあるかい_[Official_Music_Video]_RADWIMPS.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "愛にできることはまだあるかい",
+      "artist": "RADWIMPS",
+      "has_synced": false,
+      "path": "select/pl_01_愛にできることはまだあるかい_RADWIMPS.txt"
+    }
+  ]
+}
